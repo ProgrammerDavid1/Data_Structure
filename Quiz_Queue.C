@@ -1,4 +1,4 @@
-//202114497 박준석
+//202114497 박준석 
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
